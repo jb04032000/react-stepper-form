@@ -1,0 +1,32 @@
+.error_message {
+  color: red;
+}
+
+.form_container {
+  padding: 50px;
+  background: #f3eeee;
+}
+
+.steps {
+  margin-bottom: 30px;
+  user-select: none;
+}
+
+.form_steps {
+  padding: 10px;
+}
+
+.label {
+  display: block;
+  padding-bottom: 5px;
+  min-width: 150px;
+}
+
+.field_gap {
+  margin-bottom: 10px;
+}
+
+.select_options {
+  max-width: 500px;
+  width: 100px;
+}
